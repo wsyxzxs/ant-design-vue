@@ -1,6 +1,7 @@
 <template>
   <div>
-    <a-card
+    哈喽
+    <!-- <a-card
       title="测试"
       :tab-props="{ size: 'small' }"
       :tab-list="[
@@ -31,7 +32,7 @@
         { key: 'tab1', tab: 'tab1' },
         { key: 'tab2', tab: 'tab2' },
       ]"
-    />
+    /> -->
   </div>
 </template>
 <script>
